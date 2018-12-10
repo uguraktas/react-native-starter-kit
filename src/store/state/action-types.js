@@ -1,0 +1,1 @@
+//export const ALL_FETCH_DATA = 'ALL_FETCH_DATA';
